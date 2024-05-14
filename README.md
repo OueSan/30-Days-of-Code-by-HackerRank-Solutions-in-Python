@@ -4,40 +4,37 @@ Welcome to the "30 Days of Code by HackerRank - Solutions in Python" repository!
 Repository Structure
 The repository is organized with each solution in the root directory, named according to the day's challenge. Below is the structure of the repository:
 
-vbnet
-Copiar código
-30-Days-of-Code-by-HackerRank-Solutions-in-Python/
-│
-├── 0-Hello World.py
-├── 1-Data Types.py
-├── 2-Operators.py
-├── 3-Intro to Conditional Statements.py
-├── 4-Class vs Instance.py
-├── 5-Loops.py
-├── 6-Lets Review.py
-├── 7-Arrays.py
-├── 8-Dictionaries and Maps.py
-├── 9-Recursion 3.py
-├── 10-Binary Numbers.py
-├── 11-2D Arrays.py
-├── 12-Inheritance.py
-├── 13-Abstract Classes.py
-├── 14-Scope.py
-├── 15-Linked List.py
-├── 16-Exceptions - String to Integer.py
-├── 17-More Exceptions.py
-├── 18-Queues and Stacks.py
-├── 19-Interfaces.py
-├── 20-Sorting.py
-├── 21-Generics.py
-├── 22-Binary Search Trees.py
-├── 23-BST Level-Order Traversal.py
-├── 24-More Linked Lists.py
-├── 25-Running Time and Complexity.py
-├── 26-Nested Logic.py
-├── 27-Testing.py
-└── 28-RegEx, Patterns, and Intro to Databases.py
-└── 29-Bitwise AND.py
+30-Days-of-Code-by-HackerRank-Solutions-in-Python / :
+0-Hello World.py
+1-Data Types.py
+2-Operators.py
+3-Intro to Conditional Statements.py
+4-Class vs Instance.py
+5-Loops.py
+6-Lets Review.py
+7-Arrays.py
+8-Dictionaries and Maps.py
+9-Recursion 3.py
+10-Binary Numbers.py
+11-2D Arrays.py
+12-Inheritance.py
+13-Abstract Classes.py
+14-Scope.py
+15-Linked List.py
+16-Exceptions - String to Integer.py
+17-More Exceptions.py
+18-Queues and Stacks.py
+19-Interfaces.py
+20-Sorting.py
+21-Generics.py
+22-Binary Search Trees.py
+23-BST Level-Order Traversal.py
+24-More Linked Lists.py
+25-Running Time and Complexity.py
+26-Nested Logic.py
+27-Testing.py
+28-RegEx, Patterns, and Intro to Databases.py
+29-Bitwise AND.py
 
 Contents
 0-Hello World.py to 29-Bitwise AND.py: 
